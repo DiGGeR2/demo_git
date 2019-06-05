@@ -1,2 +1,3 @@
 # demo_git
-une démo qui se passe bien
+
+Voici un petit projet pour la formation en ligne
